@@ -1,0 +1,35 @@
+#container {
+		width:100%; height:100%;
+		border:1px solid green; 
+		padding:0; margin:0;
+	}
+
+#topcontainer {
+    height: 200px;
+     border: 0px solid red;     
+    padding: 0;  
+    margin: 0px ; 
+    text-align: center;
+    font-family: Arial,Helvetica;
+    background-image: url('../_images/fall.jpg') no-repeat;     
+   
+}
+#maincontainer {
+    height: 200px;
+    border: 0px solid black;    
+    padding: 5px 0px 5px 0px;
+    margin: 5px ;  
+    display: none
+    font-family:courier;
+    text-align: center;
+}
+#footercontainer {
+    height: 50px;
+    border: 0px solid black;   
+    padding: 0px;  
+    margin: 1px ; 
+    text-align: right;
+    color:black;
+		font-size:16px;
+		font-family: Arial,Helvetica;
+}
